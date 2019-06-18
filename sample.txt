@@ -27,3 +27,5 @@ this is the sample file, editing this while
 I am in DEV Branch
 >>>>>>> dev
 
+
+practice of 'DIFF' command
