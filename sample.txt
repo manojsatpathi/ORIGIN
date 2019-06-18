@@ -16,3 +16,8 @@ edited beig in master
 
 Modified with DEV
 
+
+NOW I AM IN MASTER BRANCH
+I am typing this to check th coflict
+I have typed many now. lets check the conflict now
+
