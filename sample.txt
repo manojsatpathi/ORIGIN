@@ -5,7 +5,6 @@ exercise of revert from master
 
 adding 3rd line
 
-<<<<<<< HEAD
 practice for last time
 
 editing while staying in Dev repository
@@ -17,7 +16,14 @@ edited beig in master
 Modified with DEV
 
 
+<<<<<<< HEAD (after coflict I wrote this for master branch)
 NOW I AM IN MASTER BRANCH
-I am typing this to check th coflict
+I am typing this to check the coflict
 I have typed many now. lets check the conflict now
+=======
+I am in DEV Branch Now. (after coflict I wrote this for DEV branch)
+Typing here some text for checking conflict
+this is the sample file, editing this while
+I am in DEV Branch
+>>>>>>> dev
 
