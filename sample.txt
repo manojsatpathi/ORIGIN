@@ -16,3 +16,4 @@ editing while staying in Dev repository
 
 aditing while staying in master repository
 
+edited beig in master
