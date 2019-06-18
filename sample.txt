@@ -8,3 +8,10 @@ exercise of revert from master
 adding 3rd line
 
 Modified with DEV
+
+
+I am in DEV Branch Now.
+Typing here some text for checking conflict
+this is the sample file, editing this while
+I am in DEV Branch
+
