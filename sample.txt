@@ -6,3 +6,5 @@ here we will practice GIT command
 exercise of revert from master
 
 adding 3rd line
+
+Modified with DEV
