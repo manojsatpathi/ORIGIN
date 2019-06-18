@@ -30,4 +30,6 @@ I am in DEV Branch
 
 practice of 'DIFF' command
 
-Now practice for commiting directly in GitHub
+Now practice for commiting directly in MASTER BRANCH
+
+exercise to upload content to GITHUB without id/password after generating SSH key
