@@ -1,19 +1,18 @@
 welcome to Git
 here we will practice GIT command
 
-
-
 exercise of revert from master
 
 adding 3rd line
 
+<<<<<<< HEAD
 practice for last time
 
-
 editing while staying in Dev repository
-
-
 
 aditing while staying in master repository
 
 edited beig in master
+
+Modified with DEV
+
