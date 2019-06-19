@@ -33,3 +33,5 @@ practice of 'DIFF' command
 Now practice for commiting directly in MASTER BRANCH
 
 exercise to upload content to GITHUB without id/password after generating SSH key
+
+Changed the sample.txt file being at GITHUB side
