@@ -37,3 +37,6 @@ exercise to upload content to GITHUB without id/password after generating SSH ke
 Changed the sample.txt file being at GITHUB side
 
 Changed the sample.txt file ONCE AGAAIN being at GITHUB side
+
+Above has been made changed for the practice of "PULL". Now yhis line is practce of FETCH 
+
