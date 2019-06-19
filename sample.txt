@@ -33,6 +33,7 @@ practice of 'DIFF' command
 Now practice for commiting directly in MASTER BRANCH
 
 exercise to upload content to GITHUB without id/password after generating SSH key
+<<<<<<< HEAD
 
 Changed the sample.txt file being at GITHUB side
 
@@ -40,3 +41,5 @@ Changed the sample.txt file ONCE AGAAIN being at GITHUB side
 
 Above has been made changed for the practice of "PULL". Now yhis line is practce of FETCH 
 
+=======
+>>>>>>> parent of ba3f97e... Update sample.txt
