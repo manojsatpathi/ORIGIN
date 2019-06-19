@@ -35,3 +35,5 @@ Now practice for commiting directly in MASTER BRANCH
 exercise to upload content to GITHUB without id/password after generating SSH key
 
 Changed the sample.txt file being at GITHUB side
+
+Changed the sample.txt file ONCE AGAAIN being at GITHUB side
